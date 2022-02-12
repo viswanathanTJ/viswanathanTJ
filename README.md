@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently mastering **Problem Solving**
 
-- 👨‍💻 All of my projects are available at [http://viswa2k.tk](http://viswa2k.tk)
+- 👨‍💻 All of my projects are available at [http://viswa2k.tk/#portfolio](http://viswa2k.tk/#portfolio)
 
 - 💬 Ask me about **Problem Solving, Software Development, Automation**
 
