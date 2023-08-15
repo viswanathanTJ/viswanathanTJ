@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently mastering **Problem Solving**
 
-- 👨‍💻 All of my projects are available at [http://viswa2k.tk/#portfolio](http://viswa2k.tk/#portfolio)
+- 👨‍💻 All of my projects are available at [https://viswa2k.tk/#portfolio](https://viswa2k.tk/#portfolio)
 
 - 💬 Ask me about **Problem Solving, Software Development, Automation**
 
 - 📫 How to reach me **http://viswa2k.tk**
 
-- 📄 Know about my experiences [http://viswa2k.tk/Viswanathan%20Resume.pdf](http://viswa2k.tk/Viswanathan%20Resume.pdf)
+- 📄 Know about my experiences [[http://viswa2k.tk/Viswanathan%20Resume.pdf](https://drive.google.com/file/d/1Bsnc9IQwbILp0YaFio5P6TElHpR9JK5h/view?usp=sharing)](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
