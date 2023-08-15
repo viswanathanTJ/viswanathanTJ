@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **http://viswa2k.tk**
 
-- 📄 Know about my experiences [[http://viswa2k.tk/Viswanathan%20Resume.pdf](https://drive.google.com/file/d/1Bsnc9IQwbILp0YaFio5P6TElHpR9JK5h/view?usp=sharing)](Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Bsnc9IQwbILp0YaFio5P6TElHpR9JK5h/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
