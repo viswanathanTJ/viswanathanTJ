@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viswanathan T J</h1>
 <h3 align="center">Software Developer - System Administrator - Web Developer</h3>
 
-- 🌱 I’m currently mastering **Problem Solving**
+- 🌱 I’m currently working as **Full stack engineer** and a freelancer
 
 - 👨‍💻 All of my projects are available at [https://viswa2k.tk/#portfolio](https://viswa2k.tk/#portfolio)
 
