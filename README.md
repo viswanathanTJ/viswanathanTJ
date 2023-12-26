@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently working as **Full stack engineer** and a freelancer
 
-- 👨‍💻 All of my projects are available at [https://viswa2k.tk/#portfolio](https://viswa2k.tk/#portfolio)
+- 👨‍💻 All of my projects are available at [https://viswa2k.tk/#portfolio](https://viswa2k.in/#projects)
 
 - 💬 Ask me about **Problem Solving, Software Development, Automation**
 
-- 📫 How to reach me **https://viswa2k.tk**
+- 📫 How to reach me **https://viswa2k.in**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Bsnc9IQwbILp0YaFio5P6TElHpR9JK5h/view?usp=sharing)
 
