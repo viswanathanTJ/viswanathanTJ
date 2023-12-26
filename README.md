@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as **Full stack engineer** and a freelancer
 
-- 👨‍💻 All of my projects are available at [https://viswa2k.tk/#portfolio](https://viswa2k.in/#projects)
+- 👨‍💻 All of my projects are available at [https://viswa2k.in/#projects](https://viswa2k.in/#projects)
 
 - 💬 Ask me about **Problem Solving, Software Development, Automation**
 
