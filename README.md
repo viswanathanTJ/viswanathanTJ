@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Viswanathan T J</h1>
-<h3 align="center">Software Development Engineer | Full-Stack Developer | System Administrator</h3>
+<h3 align="center">Software Development Engineer | System Administrator | DevOps Engineer</h3>
 
 - 🚀 **Software Development Engineer** at Zoho Corporation, specializing in **backend systems, API integrations, automation, and performance optimization**.  
 - 🌱 Actively enhancing **problem-solving skills** and contributing to **scalable system design**.  
 - 👨‍💻 Explore my projects: [Portfolio](https://viswa2k.in/#projects)  
 - 💬 Ask me about **Problem Solving, Software Development, Automation, API Optimization**  
 - 📫 Reach me at: [Website](https://viswa2k.in)  
-- 📄 Check my **[Resume](https://drive.google.com/file/d/1Bsnc9IQwbILp0YaFio5P6TElHpR9JK5h/view?usp=sharing)**  
+- 📄 Check my **[Resume](https://viswa2k.in/resume.pdf)**  
 
 ---
 
